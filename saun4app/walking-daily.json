@@ -1,0 +1,416 @@
+[
+  {
+    "day_of_week": "Friday",
+    "date": "09/09/16",
+    "hour_of_day": 8,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "09/09/16",
+    "hour_of_day": 21,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "09/10/16",
+    "hour_of_day": 11,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "09/10/16",
+    "hour_of_day": 21,
+    "walk_minute": 18
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "09/11/16",
+    "hour_of_day": 10,
+    "walk_minute": 16
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "09/11/16",
+    "hour_of_day": 12,
+    "walk_minute": 21
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "09/11/16",
+    "hour_of_day": 21,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "09/12/16",
+    "hour_of_day": 8,
+    "walk_minute": 15
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "09/12/16",
+    "hour_of_day": 14,
+    "walk_minute": 16
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "09/12/16",
+    "hour_of_day": 21,
+    "walk_minute": 8
+  },
+  {
+    "day_of_week": "Tuesday",
+    "date": "09/13/16",
+    "hour_of_day": 8,
+    "walk_minute": 12
+  },
+  {
+    "day_of_week": "Tuesday",
+    "date": "09/13/16",
+    "hour_of_day": 21,
+    "walk_minute": 14
+  },
+  {
+    "day_of_week": "Wednesday",
+    "date": "09/14/16",
+    "hour_of_day": 9,
+    "walk_minute": 16
+  },
+  {
+    "day_of_week": "Wednesday",
+    "date": "09/14/16",
+    "hour_of_day": 21,
+    "walk_minute": 8
+  },
+  {
+    "day_of_week": "Thursday",
+    "date": "09/15/16",
+    "hour_of_day": 8,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Thursday",
+    "date": "09/15/16",
+    "hour_of_day": 21,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "09/16/16",
+    "hour_of_day": 8,
+    "walk_minute": 14
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "09/16/16",
+    "hour_of_day": 21,
+    "walk_minute": 12
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "09/17/16",
+    "hour_of_day": 9,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "09/17/16",
+    "hour_of_day": 21,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "09/18/16",
+    "hour_of_day": 10,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "09/18/16",
+    "hour_of_day": 14,
+    "walk_minute": 14
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "09/19/16",
+    "hour_of_day": 8,
+    "walk_minute": 15
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "09/19/16",
+    "hour_of_day": 20,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Tuesday",
+    "date": "09/20/16",
+    "hour_of_day": 8,
+    "walk_minute": 13
+  },
+  {
+    "day_of_week": "Tuesday",
+    "date": "09/20/16",
+    "hour_of_day": 21,
+    "walk_minute": 7
+  },
+  {
+    "day_of_week": "Wednesday",
+    "date": "09/21/16",
+    "hour_of_day": 8,
+    "walk_minute": 15
+  },
+  {
+    "day_of_week": "Wednesday",
+    "date": "09/21/16",
+    "hour_of_day": 13,
+    "walk_minute": 11
+  },
+  {
+    "day_of_week": "Wednesday",
+    "date": "09/21/16",
+    "hour_of_day": 21,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Thursday",
+    "date": "09/22/16",
+    "hour_of_day": 8,
+    "walk_minute": 15
+  },
+  {
+    "day_of_week": "Thursday",
+    "date": "09/22/16",
+    "hour_of_day": 21,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "09/23/16",
+    "hour_of_day": 8,
+    "walk_minute": 17
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "09/23/16",
+    "hour_of_day": 11,
+    "walk_minute": 8
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "09/23/16",
+    "hour_of_day": 21,
+    "walk_minute": 15
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "09/24/16",
+    "hour_of_day": 10,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "09/24/16",
+    "hour_of_day": 21,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "09/25/16",
+    "hour_of_day": 11,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "09/26/16",
+    "hour_of_day": 8,
+    "walk_minute": 11
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "09/26/16",
+    "hour_of_day": 13,
+    "walk_minute": 20
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "09/26/16",
+    "hour_of_day": 21,
+    "walk_minute": 16
+  },
+  {
+    "day_of_week": "Tuesday",
+    "date": "09/27/16",
+    "hour_of_day": 8,
+    "walk_minute": 22
+  },
+  {
+    "day_of_week": "Tuesday",
+    "date": "09/27/16",
+    "hour_of_day": 21,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Wednesday",
+    "date": "09/28/16",
+    "hour_of_day": 8,
+    "walk_minute": 11
+  },
+  {
+    "day_of_week": "Wednesday",
+    "date": "09/28/16",
+    "hour_of_day": 21,
+    "walk_minute": 12
+  },
+  {
+    "day_of_week": "Thursday",
+    "date": "09/29/16",
+    "hour_of_day": 8,
+    "walk_minute": 8
+  },
+  {
+    "day_of_week": "Thursday",
+    "date": "09/29/16",
+    "hour_of_day": 21,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "09/30/16",
+    "hour_of_day": 8,
+    "walk_minute": 12
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "09/30/16",
+    "hour_of_day": 18,
+    "walk_minute": 23
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "09/30/16",
+    "hour_of_day": 9,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "10/01/16",
+    "hour_of_day": 10,
+    "walk_minute": 11
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "10/01/16",
+    "hour_of_day": 21,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "10/02/16",
+    "hour_of_day": 10,
+    "walk_minute": 19
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "10/02/16",
+    "hour_of_day": 20,
+    "walk_minute": 11
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "10/03/16",
+    "hour_of_day": 8,
+    "walk_minute": 18
+  },
+  {
+    "day_of_week": "Monday",
+    "date": "10/03/16",
+    "hour_of_day": 21,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Tuesday",
+    "date": "10/04/16",
+    "hour_of_day": 8,
+    "walk_minute": 10
+  },
+  {
+    "day_of_week": "Tuesday",
+    "date": "10/04/16",
+    "hour_of_day": 21,
+    "walk_minute": 7
+  },
+  {
+    "day_of_week": "Wednesday",
+    "date": "10/05/16",
+    "hour_of_day": 8,
+    "walk_minute": 21
+  },
+  {
+    "day_of_week": "Wednesday",
+    "date": "10/05/16",
+    "hour_of_day": 21,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Thursday",
+    "date": "10/06/16",
+    "hour_of_day": 8,
+    "walk_minute": 13
+  },
+  {
+    "day_of_week": "Thursday",
+    "date": "10/06/16",
+    "hour_of_day": 21,
+    "walk_minute": 8
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "10/07/16",
+    "hour_of_day": 8,
+    "walk_minute": 12
+  },
+  {
+    "day_of_week": "Friday",
+    "date": "10/07/16",
+    "hour_of_day": 14,
+    "walk_minute": 24
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "10/08/16",
+    "hour_of_day": 8,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "10/08/16",
+    "hour_of_day": 11,
+    "walk_minute": 16
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "10/08/16",
+    "hour_of_day": 18,
+    "walk_minute": 20
+  },
+  {
+    "day_of_week": "Saturday",
+    "date": "10/08/16",
+    "hour_of_day": 21,
+    "walk_minute": 9
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "10/08/16",
+    "hour_of_day": 9,
+    "walk_minute": 25
+  },
+  {
+    "day_of_week": "Sunday",
+    "date": "10/08/16",
+    "hour_of_day": 21,
+    "walk_minute": 12
+  }
+]
