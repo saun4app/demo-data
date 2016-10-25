@@ -1,0 +1,400 @@
+[{
+
+    "s": "GeoState-US-AK-state",
+    "state_code": "AK",
+    "state_name": "Alaska",
+    "latitude": "61.385",
+    "longitude": "-152.2683"
+}, {
+
+    "s": "GeoState-US-AL-state",
+    "state_code": "AL",
+    "state_name": "Alabama",
+    "latitude": "32.799",
+    "longitude": "-86.8073"
+}, {
+
+    "s": "GeoState-US-AR-state",
+    "state_code": "AR",
+    "state_name": "Arkansas",
+    "latitude": "34.9513",
+    "longitude": "-92.3809"
+}, {
+
+    "s": "GeoState-US-AS-outlying-territory",
+    "state_code": "AS",
+    "state_name": "American Samoa",
+    "latitude": null,
+    "longitude": null
+}, {
+
+    "s": "GeoState-US-AZ-state",
+    "state_code": "AZ",
+    "state_name": "Arizona",
+    "latitude": "33.7712",
+    "longitude": "-111.3877"
+}, {
+
+    "s": "GeoState-US-CA-state",
+    "state_code": "CA",
+    "state_name": "California",
+    "latitude": "36.17",
+    "longitude": "-119.7462"
+}, {
+
+    "s": "GeoState-US-CO-state",
+    "state_code": "CO",
+    "state_name": "Colorado",
+    "latitude": "39.0646",
+    "longitude": "-105.3272"
+}, {
+
+    "s": "GeoState-US-CT-state",
+    "state_code": "CT",
+    "state_name": "Connecticut",
+    "latitude": "41.5834",
+    "longitude": "-72.7622"
+}, {
+
+    "s": "GeoState-US-DC-district",
+    "state_code": "DC",
+    "state_name": "District of Columbia",
+    "latitude": "38.8964",
+    "longitude": "-77.0262"
+}, {
+
+    "s": "GeoState-US-DE-state",
+    "state_code": "DE",
+    "state_name": "Delaware",
+    "latitude": "39.3498",
+    "longitude": "-75.5148"
+}, {
+
+    "s": "GeoState-US-FL-state",
+    "state_code": "FL",
+    "state_name": "Florida",
+    "latitude": "27.8333",
+    "longitude": "-81.717"
+}, {
+
+    "s": "GeoState-US-GA-state",
+    "state_code": "GA",
+    "state_name": "Georgia",
+    "latitude": "32.9866",
+    "longitude": "-83.6487"
+}, {
+
+    "s": "GeoState-US-GU-outlying-territory",
+    "state_code": "GU",
+    "state_name": "Guam",
+    "latitude": null,
+    "longitude": null
+}, {
+
+    "s": "GeoState-US-HI-state",
+    "state_code": "HI",
+    "state_name": "Hawaii",
+    "latitude": "21.1098",
+    "longitude": "-157.5311"
+}, {
+
+    "s": "GeoState-US-IA-state",
+    "state_code": "IA",
+    "state_name": "Iowa",
+    "latitude": "42.0046",
+    "longitude": "-93.214"
+}, {
+
+    "s": "GeoState-US-ID-state",
+    "state_code": "ID",
+    "state_name": "Idaho",
+    "latitude": "44.2394",
+    "longitude": "-114.5103"
+}, {
+
+    "s": "GeoState-US-IL-state",
+    "state_code": "IL",
+    "state_name": "Illinois",
+    "latitude": "40.3363",
+    "longitude": "-89.0022"
+}, {
+
+    "s": "GeoState-US-IN-state",
+    "state_code": "IN",
+    "state_name": "Indiana",
+    "latitude": "39.8647",
+    "longitude": "-86.2604"
+}, {
+
+    "s": "GeoState-US-KS-state",
+    "state_code": "KS",
+    "state_name": "Kansas",
+    "latitude": "38.5111",
+    "longitude": "-96.8005"
+}, {
+
+    "s": "GeoState-US-KY-state",
+    "state_code": "KY",
+    "state_name": "Kentucky",
+    "latitude": "37.669",
+    "longitude": "-84.6514"
+}, {
+
+    "s": "GeoState-US-LA-state",
+    "state_code": "LA",
+    "state_name": "Louisiana",
+    "latitude": "31.1801",
+    "longitude": "-91.8749"
+}, {
+
+    "s": "GeoState-US-MA-state",
+    "state_code": "MA",
+    "state_name": "Massachusetts",
+    "latitude": "42.2373",
+    "longitude": "-71.5314"
+}, {
+
+    "s": "GeoState-US-MD-state",
+    "state_code": "MD",
+    "state_name": "Maryland",
+    "latitude": "39.0724",
+    "longitude": "-76.7902"
+}, {
+
+    "s": "GeoState-US-ME-state",
+    "state_code": "ME",
+    "state_name": "Maine",
+    "latitude": "44.6074",
+    "longitude": "-69.3977"
+}, {
+
+    "s": "GeoState-US-MI-state",
+    "state_code": "MI",
+    "state_name": "Michigan",
+    "latitude": "43.3504",
+    "longitude": "-84.5603"
+}, {
+
+    "s": "GeoState-US-MN-state",
+    "state_code": "MN",
+    "state_name": "Minnesota",
+    "latitude": "45.7326",
+    "longitude": "-93.9196"
+}, {
+
+    "s": "GeoState-US-MO-state",
+    "state_code": "MO",
+    "state_name": "Missouri",
+    "latitude": "38.4623",
+    "longitude": "-92.302"
+}, {
+
+    "s": "GeoState-US-MP-outlying-territory",
+    "state_code": "MP",
+    "state_name": "Northern Mariana Islands",
+    "latitude": null,
+    "longitude": null
+}, {
+
+    "s": "GeoState-US-MS-state",
+    "state_code": "MS",
+    "state_name": "Mississippi",
+    "latitude": "32.7673",
+    "longitude": "-89.6812"
+}, {
+
+    "s": "GeoState-US-MT-state",
+    "state_code": "MT",
+    "state_name": "Montana",
+    "latitude": "46.9048",
+    "longitude": "-110.3261"
+}, {
+
+    "s": "GeoState-US-NC-state",
+    "state_code": "NC",
+    "state_name": "North Carolina",
+    "latitude": "35.6411",
+    "longitude": "-79.8431"
+}, {
+
+    "s": "GeoState-US-ND-state",
+    "state_code": "ND",
+    "state_name": "North Dakota",
+    "latitude": "47.5362",
+    "longitude": "-99.793"
+}, {
+
+    "s": "GeoState-US-NE-state",
+    "state_code": "NE",
+    "state_name": "Nebraska",
+    "latitude": "41.1289",
+    "longitude": "-98.2883"
+}, {
+
+    "s": "GeoState-US-NH-state",
+    "state_code": "NH",
+    "state_name": "New Hampshire",
+    "latitude": "43.4108",
+    "longitude": "-71.5653"
+}, {
+
+    "s": "GeoState-US-NJ-state",
+    "state_code": "NJ",
+    "state_name": "New Jersey",
+    "latitude": "40.314",
+    "longitude": "-74.5089"
+}, {
+
+    "s": "GeoState-US-NM-state",
+    "state_code": "NM",
+    "state_name": "New Mexico",
+    "latitude": "34.8375",
+    "longitude": "-106.2371"
+}, {
+
+    "s": "GeoState-US-NV-state",
+    "state_code": "NV",
+    "state_name": "Nevada",
+    "latitude": "38.4199",
+    "longitude": "-117.1219"
+}, {
+
+    "s": "GeoState-US-NY-state",
+    "state_code": "NY",
+    "state_name": "New York",
+    "latitude": "42.1497",
+    "longitude": "-74.9384"
+}, {
+
+    "s": "GeoState-US-OH-state",
+    "state_code": "OH",
+    "state_name": "Ohio",
+    "latitude": "40.3736",
+    "longitude": "-82.7755"
+}, {
+
+    "s": "GeoState-US-OK-state",
+    "state_code": "OK",
+    "state_name": "Oklahoma",
+    "latitude": "35.5376",
+    "longitude": "-96.9247"
+}, {
+
+    "s": "GeoState-US-OR-state",
+    "state_code": "OR",
+    "state_name": "Oregon",
+    "latitude": "44.5672",
+    "longitude": "-122.1269"
+}, {
+
+    "s": "GeoState-US-PA-state",
+    "state_code": "PA",
+    "state_name": "Pennsylvania",
+    "latitude": "40.5773",
+    "longitude": "-77.264"
+}, {
+
+    "s": "GeoState-US-PR-outlying-territory",
+    "state_code": "PR",
+    "state_name": "Puerto Rico",
+    "latitude": null,
+    "longitude": null
+}, {
+
+    "s": "GeoState-US-RI-state",
+    "state_code": "RI",
+    "state_name": "Rhode Island",
+    "latitude": "41.6772",
+    "longitude": "-71.5101"
+}, {
+
+    "s": "GeoState-US-SC-state",
+    "state_code": "SC",
+    "state_name": "South Carolina",
+    "latitude": "33.8191",
+    "longitude": "-80.9066"
+}, {
+
+    "s": "GeoState-US-SD-state",
+    "state_code": "SD",
+    "state_name": "South Dakota",
+    "latitude": "44.2853",
+    "longitude": "-99.4632"
+}, {
+
+    "s": "GeoState-US-TN-state",
+    "state_code": "TN",
+    "state_name": "Tennessee",
+    "latitude": "35.7449",
+    "longitude": "-86.7489"
+}, {
+
+    "s": "GeoState-US-TX-state",
+    "state_code": "TX",
+    "state_name": "Texas",
+    "latitude": "31.106",
+    "longitude": "-97.6475"
+}, {
+
+    "s": "GeoState-US-UM-outlying-territory",
+    "state_code": "UM",
+    "state_name": "United States Minor Outlying Islands",
+    "latitude": null,
+    "longitude": null
+}, {
+
+    "s": "GeoState-US-UT-state",
+    "state_code": "UT",
+    "state_name": "Utah",
+    "latitude": "40.1135",
+    "longitude": "-111.8535"
+}, {
+
+    "s": "GeoState-US-VA-state",
+    "state_code": "VA",
+    "state_name": "Virginia",
+    "latitude": "37.768",
+    "longitude": "-78.2057"
+}, {
+
+    "s": "GeoState-US-VI-outlying-territory",
+    "state_code": "VI",
+    "state_name": "Virgin Islands, U.S.",
+    "latitude": null,
+    "longitude": null
+}, {
+
+    "s": "GeoState-US-VT-state",
+    "state_code": "VT",
+    "state_name": "Vermont",
+    "latitude": "44.0407",
+    "longitude": "-72.7093"
+}, {
+
+    "s": "GeoState-US-WA-state",
+    "state_code": "WA",
+    "state_name": "Washington",
+    "latitude": "47.3917",
+    "longitude": "-121.5708"
+}, {
+
+    "s": "GeoState-US-WI-state",
+    "state_code": "WI",
+    "state_name": "Wisconsin",
+    "latitude": "44.2563",
+    "longitude": "-89.6385"
+}, {
+
+    "s": "GeoState-US-WV-state",
+    "state_code": "WV",
+    "state_name": "West Virginia",
+    "latitude": "38.468",
+    "longitude": "-80.9696"
+}, {
+
+    "s": "GeoState-US-WY-state",
+    "state_code": "WY",
+    "state_name": "Wyoming",
+    "latitude": "42.7475",
+    "longitude": "-107.2085"
+}]
