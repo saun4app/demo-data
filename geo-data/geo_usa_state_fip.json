@@ -1,0 +1,515 @@
+[
+    {
+        "fip_code": "01",
+        "state_code": "AL",
+        "state_name": "Alabama",
+        "state_tens": "01779775",
+        "location_type": "state",
+        "latitude": "32.799",
+        "longitude": "-86.8073"
+    },
+    {
+        "fip_code": "02",
+        "state_code": "AK",
+        "state_name": "Alaska",
+        "state_tens": "01785533",
+        "location_type": "state",
+        "latitude": "61.385",
+        "longitude": "-152.2683"
+    },
+    {
+        "fip_code": "04",
+        "state_code": "AZ",
+        "state_name": "Arizona",
+        "state_tens": "01779777",
+        "location_type": "state",
+        "latitude": "33.7712",
+        "longitude": "-111.3877"
+    },
+    {
+        "fip_code": "05",
+        "state_code": "AR",
+        "state_name": "Arkansas",
+        "state_tens": "00068085",
+        "location_type": "state",
+        "latitude": "34.9513",
+        "longitude": "-92.3809"
+    },
+    {
+        "fip_code": "06",
+        "state_code": "CA",
+        "state_name": "California",
+        "state_tens": "01779778",
+        "location_type": "state",
+        "latitude": "36.17",
+        "longitude": "-119.7462"
+    },
+    {
+        "fip_code": "08",
+        "state_code": "CO",
+        "state_name": "Colorado",
+        "state_tens": "01779779",
+        "location_type": "state",
+        "latitude": "39.0646",
+        "longitude": "-105.3272"
+    },
+    {
+        "fip_code": "09",
+        "state_code": "CT",
+        "state_name": "Connecticut",
+        "state_tens": "01779780",
+        "location_type": "state",
+        "latitude": "41.5834",
+        "longitude": "-72.7622"
+    },
+    {
+        "fip_code": "10",
+        "state_code": "DE",
+        "state_name": "Delaware",
+        "state_tens": "01779781",
+        "location_type": "state",
+        "latitude": "39.3498",
+        "longitude": "-75.5148"
+    },
+    {
+        "fip_code": "11",
+        "state_code": "DC",
+        "state_name": "District of Columbia",
+        "state_tens": "01702382",
+        "location_type": "district",
+        "latitude": "38.8964",
+        "longitude": "-77.0262"
+    },
+    {
+        "fip_code": "12",
+        "state_code": "FL",
+        "state_name": "Florida",
+        "state_tens": "00294478",
+        "location_type": "state",
+        "latitude": "27.8333",
+        "longitude": "-81.717"
+    },
+    {
+        "fip_code": "13",
+        "state_code": "GA",
+        "state_name": "Georgia",
+        "state_tens": "01705317",
+        "location_type": "state",
+        "latitude": "32.9866",
+        "longitude": "-83.6487"
+    },
+    {
+        "fip_code": "15",
+        "state_code": "HI",
+        "state_name": "Hawaii",
+        "state_tens": "01779782",
+        "location_type": "state",
+        "latitude": "21.1098",
+        "longitude": "-157.5311"
+    },
+    {
+        "fip_code": "16",
+        "state_code": "ID",
+        "state_name": "Idaho",
+        "state_tens": "01779783",
+        "location_type": "state",
+        "latitude": "44.2394",
+        "longitude": "-114.5103"
+    },
+    {
+        "fip_code": "17",
+        "state_code": "IL",
+        "state_name": "Illinois",
+        "state_tens": "01779784",
+        "location_type": "state",
+        "latitude": "40.3363",
+        "longitude": "-89.0022"
+    },
+    {
+        "fip_code": "18",
+        "state_code": "IN",
+        "state_name": "Indiana",
+        "state_tens": "00448508",
+        "location_type": "state",
+        "latitude": "39.8647",
+        "longitude": "-86.2604"
+    },
+    {
+        "fip_code": "19",
+        "state_code": "IA",
+        "state_name": "Iowa",
+        "state_tens": "01779785",
+        "location_type": "state",
+        "latitude": "42.0046",
+        "longitude": "-93.214"
+    },
+    {
+        "fip_code": "20",
+        "state_code": "KS",
+        "state_name": "Kansas",
+        "state_tens": "00481813",
+        "location_type": "state",
+        "latitude": "38.5111",
+        "longitude": "-96.8005"
+    },
+    {
+        "fip_code": "21",
+        "state_code": "KY",
+        "state_name": "Kentucky",
+        "state_tens": "01779786",
+        "location_type": "state",
+        "latitude": "37.669",
+        "longitude": "-84.6514"
+    },
+    {
+        "fip_code": "22",
+        "state_code": "LA",
+        "state_name": "Louisiana",
+        "state_tens": "01629543",
+        "location_type": "state",
+        "latitude": "31.1801",
+        "longitude": "-91.8749"
+    },
+    {
+        "fip_code": "23",
+        "state_code": "ME",
+        "state_name": "Maine",
+        "state_tens": "01779787",
+        "location_type": "state",
+        "latitude": "44.6074",
+        "longitude": "-69.3977"
+    },
+    {
+        "fip_code": "24",
+        "state_code": "MD",
+        "state_name": "Maryland",
+        "state_tens": "01714934",
+        "location_type": "state",
+        "latitude": "39.0724",
+        "longitude": "-76.7902"
+    },
+    {
+        "fip_code": "25",
+        "state_code": "MA",
+        "state_name": "Massachusetts",
+        "state_tens": "00606926",
+        "location_type": "state",
+        "latitude": "42.2373",
+        "longitude": "-71.5314"
+    },
+    {
+        "fip_code": "26",
+        "state_code": "MI",
+        "state_name": "Michigan",
+        "state_tens": "01779789",
+        "location_type": "state",
+        "latitude": "43.3504",
+        "longitude": "-84.5603"
+    },
+    {
+        "fip_code": "27",
+        "state_code": "MN",
+        "state_name": "Minnesota",
+        "state_tens": "00662849",
+        "location_type": "state",
+        "latitude": "45.7326",
+        "longitude": "-93.9196"
+    },
+    {
+        "fip_code": "28",
+        "state_code": "MS",
+        "state_name": "Mississippi",
+        "state_tens": "01779790",
+        "location_type": "state",
+        "latitude": "32.7673",
+        "longitude": "-89.6812"
+    },
+    {
+        "fip_code": "29",
+        "state_code": "MO",
+        "state_name": "Missouri",
+        "state_tens": "01779791",
+        "location_type": "state",
+        "latitude": "38.4623",
+        "longitude": "-92.302"
+    },
+    {
+        "fip_code": "30",
+        "state_code": "MT",
+        "state_name": "Montana",
+        "state_tens": "00767982",
+        "location_type": "state",
+        "latitude": "46.9048",
+        "longitude": "-110.3261"
+    },
+    {
+        "fip_code": "31",
+        "state_code": "NE",
+        "state_name": "Nebraska",
+        "state_tens": "01779792",
+        "location_type": "state",
+        "latitude": "41.1289",
+        "longitude": "-98.2883"
+    },
+    {
+        "fip_code": "32",
+        "state_code": "NV",
+        "state_name": "Nevada",
+        "state_tens": "01779793",
+        "location_type": "state",
+        "latitude": "38.4199",
+        "longitude": "-117.1219"
+    },
+    {
+        "fip_code": "33",
+        "state_code": "NH",
+        "state_name": "New Hampshire",
+        "state_tens": "01779794",
+        "location_type": "state",
+        "latitude": "43.4108",
+        "longitude": "-71.5653"
+    },
+    {
+        "fip_code": "34",
+        "state_code": "NJ",
+        "state_name": "New Jersey",
+        "state_tens": "01779795",
+        "location_type": "state",
+        "latitude": "40.314",
+        "longitude": "-74.5089"
+    },
+    {
+        "fip_code": "35",
+        "state_code": "NM",
+        "state_name": "New Mexico",
+        "state_tens": "00897535",
+        "location_type": "state",
+        "latitude": "34.8375",
+        "longitude": "-106.2371"
+    },
+    {
+        "fip_code": "36",
+        "state_code": "NY",
+        "state_name": "New York",
+        "state_tens": "01779796",
+        "location_type": "state",
+        "latitude": "42.1497",
+        "longitude": "-74.9384"
+    },
+    {
+        "fip_code": "37",
+        "state_code": "NC",
+        "state_name": "North Carolina",
+        "state_tens": "01027616",
+        "location_type": "state",
+        "latitude": "35.6411",
+        "longitude": "-79.8431"
+    },
+    {
+        "fip_code": "38",
+        "state_code": "ND",
+        "state_name": "North Dakota",
+        "state_tens": "01779797",
+        "location_type": "state",
+        "latitude": "47.5362",
+        "longitude": "-99.793"
+    },
+    {
+        "fip_code": "39",
+        "state_code": "OH",
+        "state_name": "Ohio",
+        "state_tens": "01085497",
+        "location_type": "state",
+        "latitude": "40.3736",
+        "longitude": "-82.7755"
+    },
+    {
+        "fip_code": "40",
+        "state_code": "OK",
+        "state_name": "Oklahoma",
+        "state_tens": "01102857",
+        "location_type": "state",
+        "latitude": "35.5376",
+        "longitude": "-96.9247"
+    },
+    {
+        "fip_code": "41",
+        "state_code": "OR",
+        "state_name": "Oregon",
+        "state_tens": "01155107",
+        "location_type": "state",
+        "latitude": "44.5672",
+        "longitude": "-122.1269"
+    },
+    {
+        "fip_code": "42",
+        "state_code": "PA",
+        "state_name": "Pennsylvania",
+        "state_tens": "01779798",
+        "location_type": "state",
+        "latitude": "40.5773",
+        "longitude": "-77.264"
+    },
+    {
+        "fip_code": "44",
+        "state_code": "RI",
+        "state_name": "Rhode Island",
+        "state_tens": "01219835",
+        "location_type": "state",
+        "latitude": "41.6772",
+        "longitude": "-71.5101"
+    },
+    {
+        "fip_code": "45",
+        "state_code": "SC",
+        "state_name": "South Carolina",
+        "state_tens": "01779799",
+        "location_type": "state",
+        "latitude": "33.8191",
+        "longitude": "-80.9066"
+    },
+    {
+        "fip_code": "46",
+        "state_code": "SD",
+        "state_name": "South Dakota",
+        "state_tens": "01785534",
+        "location_type": "state",
+        "latitude": "44.2853",
+        "longitude": "-99.4632"
+    },
+    {
+        "fip_code": "47",
+        "state_code": "TN",
+        "state_name": "Tennessee",
+        "state_tens": "01325873",
+        "location_type": "state",
+        "latitude": "35.7449",
+        "longitude": "-86.7489"
+    },
+    {
+        "fip_code": "48",
+        "state_code": "TX",
+        "state_name": "Texas",
+        "state_tens": "01779801",
+        "location_type": "state",
+        "latitude": "31.106",
+        "longitude": "-97.6475"
+    },
+    {
+        "fip_code": "49",
+        "state_code": "UT",
+        "state_name": "Utah",
+        "state_tens": "01455989",
+        "location_type": "state",
+        "latitude": "40.1135",
+        "longitude": "-111.8535"
+    },
+    {
+        "fip_code": "50",
+        "state_code": "VT",
+        "state_name": "Vermont",
+        "state_tens": "01779802",
+        "location_type": "state",
+        "latitude": "44.0407",
+        "longitude": "-72.7093"
+    },
+    {
+        "fip_code": "51",
+        "state_code": "VA",
+        "state_name": "Virginia",
+        "state_tens": "01779803",
+        "location_type": "state",
+        "latitude": "37.768",
+        "longitude": "-78.2057"
+    },
+    {
+        "fip_code": "53",
+        "state_code": "WA",
+        "state_name": "Washington",
+        "state_tens": "01779804",
+        "location_type": "state",
+        "latitude": "47.3917",
+        "longitude": "-121.5708"
+    },
+    {
+        "fip_code": "54",
+        "state_code": "WV",
+        "state_name": "West Virginia",
+        "state_tens": "01779805",
+        "location_type": "state",
+        "latitude": "38.468",
+        "longitude": "-80.9696"
+    },
+    {
+        "fip_code": "55",
+        "state_code": "WI",
+        "state_name": "Wisconsin",
+        "state_tens": "01779806",
+        "location_type": "state",
+        "latitude": "44.2563",
+        "longitude": "-89.6385"
+    },
+    {
+        "fip_code": "56",
+        "state_code": "WY",
+        "state_name": "Wyoming",
+        "state_tens": "01779807",
+        "location_type": "state",
+        "latitude": "42.7475",
+        "longitude": "-107.2085"
+    },
+    {
+        "fip_code": "60",
+        "state_code": "AS",
+        "state_name": "American Samoa",
+        "state_tens": "01802701",
+        "location_type": "outlying-territory",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "fip_code": "66",
+        "state_code": "GU",
+        "state_name": "Guam",
+        "state_tens": "01802705",
+        "location_type": "outlying-territory",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "fip_code": "69",
+        "state_code": "MP",
+        "state_name": "Northern Mariana Islands",
+        "state_tens": "01779809",
+        "location_type": "outlying-territory",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "fip_code": "72",
+        "state_code": "PR",
+        "state_name": "Puerto Rico",
+        "state_tens": "01779808",
+        "location_type": "outlying-territory",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "fip_code": "74",
+        "state_code": "UM",
+        "state_name": "United States Minor Outlying Islands",
+        "state_tens": "01878752",
+        "location_type": "outlying-territory",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "fip_code": "78",
+        "state_code": "VI",
+        "state_name": "Virgin Islands, U.S.",
+        "state_tens": "01802710",
+        "location_type": "outlying-territory",
+        "latitude": null,
+        "longitude": null
+    }
+]
