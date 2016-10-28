@@ -1,0 +1,446 @@
+[{
+		"color_name" : "AliceBlue",
+		"hex_code" : "#F0F8FF"
+	}, {
+		"color_name" : "AntiqueWhite",
+		"hex_code" : "#FAEBD7"
+	}, {
+		"color_name" : "Aqua",
+		"hex_code" : "#00FFFF"
+	}, {
+		"color_name" : "Aquamarine",
+		"hex_code" : "#7FFFD4"
+	}, {
+		"color_name" : "Azure",
+		"hex_code" : "#F0FFFF"
+	}, {
+		"color_name" : "Beige",
+		"hex_code" : "#F5F5DC"
+	}, {
+		"color_name" : "Bisque",
+		"hex_code" : "#FFE4C4"
+	}, {
+		"color_name" : "Black",
+		"hex_code" : "#000000"
+	}, {
+		"color_name" : "BlanchedAlmond",
+		"hex_code" : "#FFEBCD"
+	}, {
+		"color_name" : "Blue",
+		"hex_code" : "#0000FF"
+	}, {
+		"color_name" : "BlueViolet",
+		"hex_code" : "#8A2BE2"
+	}, {
+		"color_name" : "Brown",
+		"hex_code" : "#A52A2A"
+	}, {
+		"color_name" : "BurlyWood",
+		"hex_code" : "#DEB887"
+	}, {
+		"color_name" : "CadetBlue",
+		"hex_code" : "#5F9EA0"
+	}, {
+		"color_name" : "Chartreuse",
+		"hex_code" : "#7FFF00"
+	}, {
+		"color_name" : "Chocolate",
+		"hex_code" : "#D2691E"
+	}, {
+		"color_name" : "Coral",
+		"hex_code" : "#FF7F50"
+	}, {
+		"color_name" : "CornflowerBlue",
+		"hex_code" : "#6495ED"
+	}, {
+		"color_name" : "Cornsilk",
+		"hex_code" : "#FFF8DC"
+	}, {
+		"color_name" : "Crimson",
+		"hex_code" : "#DC143C"
+	}, {
+		"color_name" : "Cyan",
+		"hex_code" : "#00FFFF"
+	}, {
+		"color_name" : "DarkBlue",
+		"hex_code" : "#00008B"
+	}, {
+		"color_name" : "DarkCyan",
+		"hex_code" : "#008B8B"
+	}, {
+		"color_name" : "DarkGoldenRod",
+		"hex_code" : "#B8860B"
+	}, {
+		"color_name" : "DarkGray",
+		"hex_code" : "#A9A9A9"
+	}, {
+		"color_name" : "DarkGrey",
+		"hex_code" : "#A9A9A9"
+	}, {
+		"color_name" : "DarkGreen",
+		"hex_code" : "#006400"
+	}, {
+		"color_name" : "DarkKhaki",
+		"hex_code" : "#BDB76B"
+	}, {
+		"color_name" : "DarkMagenta",
+		"hex_code" : "#8B008B"
+	}, {
+		"color_name" : "DarkOliveGreen",
+		"hex_code" : "#556B2F"
+	}, {
+		"color_name" : "DarkOrange",
+		"hex_code" : "#FF8C00"
+	}, {
+		"color_name" : "DarkOrchid",
+		"hex_code" : "#9932CC"
+	}, {
+		"color_name" : "DarkRed",
+		"hex_code" : "#8B0000"
+	}, {
+		"color_name" : "DarkSalmon",
+		"hex_code" : "#E9967A"
+	}, {
+		"color_name" : "DarkSeaGreen",
+		"hex_code" : "#8FBC8F"
+	}, {
+		"color_name" : "DarkSlateBlue",
+		"hex_code" : "#483D8B"
+	}, {
+		"color_name" : "DarkSlateGray",
+		"hex_code" : "#2F4F4F"
+	}, {
+		"color_name" : "DarkSlateGrey",
+		"hex_code" : "#2F4F4F"
+	}, {
+		"color_name" : "DarkTurquoise",
+		"hex_code" : "#00CED1"
+	}, {
+		"color_name" : "DarkViolet",
+		"hex_code" : "#9400D3"
+	}, {
+		"color_name" : "DeepPink",
+		"hex_code" : "#FF1493"
+	}, {
+		"color_name" : "DeepSkyBlue",
+		"hex_code" : "#00BFFF"
+	}, {
+		"color_name" : "DimGray",
+		"hex_code" : "#696969"
+	}, {
+		"color_name" : "DimGrey",
+		"hex_code" : "#696969"
+	}, {
+		"color_name" : "DodgerBlue",
+		"hex_code" : "#1E90FF"
+	}, {
+		"color_name" : "FireBrick",
+		"hex_code" : "#B22222"
+	}, {
+		"color_name" : "FloralWhite",
+		"hex_code" : "#FFFAF0"
+	}, {
+		"color_name" : "ForestGreen",
+		"hex_code" : "#228B22"
+	}, {
+		"color_name" : "Fuchsia",
+		"hex_code" : "#FF00FF"
+	}, {
+		"color_name" : "Gainsboro",
+		"hex_code" : "#DCDCDC"
+	}, {
+		"color_name" : "GhostWhite",
+		"hex_code" : "#F8F8FF"
+	}, {
+		"color_name" : "Gold",
+		"hex_code" : "#FFD700"
+	}, {
+		"color_name" : "GoldenRod",
+		"hex_code" : "#DAA520"
+	}, {
+		"color_name" : "Gray",
+		"hex_code" : "#808080"
+	}, {
+		"color_name" : "Grey",
+		"hex_code" : "#808080"
+	}, {
+		"color_name" : "Green",
+		"hex_code" : "#008000"
+	}, {
+		"color_name" : "GreenYellow",
+		"hex_code" : "#ADFF2F"
+	}, {
+		"color_name" : "HoneyDew",
+		"hex_code" : "#F0FFF0"
+	}, {
+		"color_name" : "HotPink",
+		"hex_code" : "#FF69B4"
+	}, {
+		"color_name" : "IndianRed",
+		"hex_code" : "#CD5C5C"
+	}, {
+		"color_name" : "Indigo",
+		"hex_code" : "#4B0082"
+	}, {
+		"color_name" : "Ivory",
+		"hex_code" : "#FFFFF0"
+	}, {
+		"color_name" : "Khaki",
+		"hex_code" : "#F0E68C"
+	}, {
+		"color_name" : "Lavender",
+		"hex_code" : "#E6E6FA"
+	}, {
+		"color_name" : "LavenderBlush",
+		"hex_code" : "#FFF0F5"
+	}, {
+		"color_name" : "LawnGreen",
+		"hex_code" : "#7CFC00"
+	}, {
+		"color_name" : "LemonChiffon",
+		"hex_code" : "#FFFACD"
+	}, {
+		"color_name" : "LightBlue",
+		"hex_code" : "#ADD8E6"
+	}, {
+		"color_name" : "LightCoral",
+		"hex_code" : "#F08080"
+	}, {
+		"color_name" : "LightCyan",
+		"hex_code" : "#E0FFFF"
+	}, {
+		"color_name" : "LightGoldenRodYellow",
+		"hex_code" : "#FAFAD2"
+	}, {
+		"color_name" : "LightGray",
+		"hex_code" : "#D3D3D3"
+	}, {
+		"color_name" : "LightGrey",
+		"hex_code" : "#D3D3D3"
+	}, {
+		"color_name" : "LightGreen",
+		"hex_code" : "#90EE90"
+	}, {
+		"color_name" : "LightPink",
+		"hex_code" : "#FFB6C1"
+	}, {
+		"color_name" : "LightSalmon",
+		"hex_code" : "#FFA07A"
+	}, {
+		"color_name" : "LightSeaGreen",
+		"hex_code" : "#20B2AA"
+	}, {
+		"color_name" : "LightSkyBlue",
+		"hex_code" : "#87CEFA"
+	}, {
+		"color_name" : "LightSlateGray",
+		"hex_code" : "#778899"
+	}, {
+		"color_name" : "LightSlateGrey",
+		"hex_code" : "#778899"
+	}, {
+		"color_name" : "LightSteelBlue",
+		"hex_code" : "#B0C4DE"
+	}, {
+		"color_name" : "LightYellow",
+		"hex_code" : "#FFFFE0"
+	}, {
+		"color_name" : "Lime",
+		"hex_code" : "#00FF00"
+	}, {
+		"color_name" : "LimeGreen",
+		"hex_code" : "#32CD32"
+	}, {
+		"color_name" : "Linen",
+		"hex_code" : "#FAF0E6"
+	}, {
+		"color_name" : "Magenta",
+		"hex_code" : "#FF00FF"
+	}, {
+		"color_name" : "Maroon",
+		"hex_code" : "#800000"
+	}, {
+		"color_name" : "MediumAquaMarine",
+		"hex_code" : "#66CDAA"
+	}, {
+		"color_name" : "MediumBlue",
+		"hex_code" : "#0000CD"
+	}, {
+		"color_name" : "MediumOrchid",
+		"hex_code" : "#BA55D3"
+	}, {
+		"color_name" : "MediumPurple",
+		"hex_code" : "#9370DB"
+	}, {
+		"color_name" : "MediumSeaGreen",
+		"hex_code" : "#3CB371"
+	}, {
+		"color_name" : "MediumSlateBlue",
+		"hex_code" : "#7B68EE"
+	}, {
+		"color_name" : "MediumSpringGreen",
+		"hex_code" : "#00FA9A"
+	}, {
+		"color_name" : "MediumTurquoise",
+		"hex_code" : "#48D1CC"
+	}, {
+		"color_name" : "MediumVioletRed",
+		"hex_code" : "#C71585"
+	}, {
+		"color_name" : "MidnightBlue",
+		"hex_code" : "#191970"
+	}, {
+		"color_name" : "MintCream",
+		"hex_code" : "#F5FFFA"
+	}, {
+		"color_name" : "MistyRose",
+		"hex_code" : "#FFE4E1"
+	}, {
+		"color_name" : "Moccasin",
+		"hex_code" : "#FFE4B5"
+	}, {
+		"color_name" : "NavajoWhite",
+		"hex_code" : "#FFDEAD"
+	}, {
+		"color_name" : "Navy",
+		"hex_code" : "#000080"
+	}, {
+		"color_name" : "OldLace",
+		"hex_code" : "#FDF5E6"
+	}, {
+		"color_name" : "Olive",
+		"hex_code" : "#808000"
+	}, {
+		"color_name" : "OliveDrab",
+		"hex_code" : "#6B8E23"
+	}, {
+		"color_name" : "Orange",
+		"hex_code" : "#FFA500"
+	}, {
+		"color_name" : "OrangeRed",
+		"hex_code" : "#FF4500"
+	}, {
+		"color_name" : "Orchid",
+		"hex_code" : "#DA70D6"
+	}, {
+		"color_name" : "PaleGoldenRod",
+		"hex_code" : "#EEE8AA"
+	}, {
+		"color_name" : "PaleGreen",
+		"hex_code" : "#98FB98"
+	}, {
+		"color_name" : "PaleTurquoise",
+		"hex_code" : "#AFEEEE"
+	}, {
+		"color_name" : "PaleVioletRed",
+		"hex_code" : "#DB7093"
+	}, {
+		"color_name" : "PapayaWhip",
+		"hex_code" : "#FFEFD5"
+	}, {
+		"color_name" : "PeachPuff",
+		"hex_code" : "#FFDAB9"
+	}, {
+		"color_name" : "Peru",
+		"hex_code" : "#CD853F"
+	}, {
+		"color_name" : "Pink",
+		"hex_code" : "#FFC0CB"
+	}, {
+		"color_name" : "Plum",
+		"hex_code" : "#DDA0DD"
+	}, {
+		"color_name" : "PowderBlue",
+		"hex_code" : "#B0E0E6"
+	}, {
+		"color_name" : "Purple",
+		"hex_code" : "#800080"
+	}, {
+		"color_name" : "RebeccaPurple",
+		"hex_code" : "#663399"
+	}, {
+		"color_name" : "Red",
+		"hex_code" : "#FF0000"
+	}, {
+		"color_name" : "RosyBrown",
+		"hex_code" : "#BC8F8F"
+	}, {
+		"color_name" : "RoyalBlue",
+		"hex_code" : "#4169E1"
+	}, {
+		"color_name" : "SaddleBrown",
+		"hex_code" : "#8B4513"
+	}, {
+		"color_name" : "Salmon",
+		"hex_code" : "#FA8072"
+	}, {
+		"color_name" : "SandyBrown",
+		"hex_code" : "#F4A460"
+	}, {
+		"color_name" : "SeaGreen",
+		"hex_code" : "#2E8B57"
+	}, {
+		"color_name" : "SeaShell",
+		"hex_code" : "#FFF5EE"
+	}, {
+		"color_name" : "Sienna",
+		"hex_code" : "#A0522D"
+	}, {
+		"color_name" : "Silver",
+		"hex_code" : "#C0C0C0"
+	}, {
+		"color_name" : "SkyBlue",
+		"hex_code" : "#87CEEB"
+	}, {
+		"color_name" : "SlateBlue",
+		"hex_code" : "#6A5ACD"
+	}, {
+		"color_name" : "SlateGray",
+		"hex_code" : "#708090"
+	}, {
+		"color_name" : "SlateGrey",
+		"hex_code" : "#708090"
+	}, {
+		"color_name" : "Snow",
+		"hex_code" : "#FFFAFA"
+	}, {
+		"color_name" : "SpringGreen",
+		"hex_code" : "#00FF7F"
+	}, {
+		"color_name" : "SteelBlue",
+		"hex_code" : "#4682B4"
+	}, {
+		"color_name" : "Tan",
+		"hex_code" : "#D2B48C"
+	}, {
+		"color_name" : "Teal",
+		"hex_code" : "#008080"
+	}, {
+		"color_name" : "Thistle",
+		"hex_code" : "#D8BFD8"
+	}, {
+		"color_name" : "Tomato",
+		"hex_code" : "#FF6347"
+	}, {
+		"color_name" : "Turquoise",
+		"hex_code" : "#40E0D0"
+	}, {
+		"color_name" : "Violet",
+		"hex_code" : "#EE82EE"
+	}, {
+		"color_name" : "Wheat",
+		"hex_code" : "#F5DEB3"
+	}, {
+		"color_name" : "White",
+		"hex_code" : "#FFFFFF"
+	}, {
+		"color_name" : "WhiteSmoke",
+		"hex_code" : "#F5F5F5"
+	}, {
+		"color_name" : "Yellow",
+		"hex_code" : "#FFFF00"
+	}, {
+		"color_name" : "YellowGreen",
+		"hex_code" : "#9ACD32"
+	}
+]
