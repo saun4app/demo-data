@@ -1,4 +1,4 @@
-datetime,season,holiday,work_day,weather,temperature,apparent_temperature,humidity,windspeed,casual_renter_count,registered_renter_count,renter_count,month,day_of_month,day_of_week,hour_of_day
+datetime,season,holiday,work_day,weather,temperature,apparent_temperature,humidity,windspeed,casual_renter_count,registered_renter_count,rental_count,month,day_of_month,day_of_week,hour_of_day
 2011-01-01 00:00:00,1,0,0,1,49.712,57.911,81,0.0,3,13,16,1,1,5,0
 2011-01-01 01:00:00,1,0,0,1,48.236000000000004,56.543,80,0.0,8,32,40,1,1,5,1
 2011-01-01 02:00:00,1,0,0,1,48.236000000000004,56.543,80,0.0,5,27,32,1,1,5,2
